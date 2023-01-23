@@ -78,7 +78,6 @@
   .day div {
     display: flex;
     margin-bottom: 8px;
-    
   }
 
   input {
@@ -95,7 +94,6 @@
   input:checked {
     background: #8B5CF6;
     border: 2px solid #A78BFA;
-    border-radius: 8px; 
   }
 
   @media (max-width: 570px) {
